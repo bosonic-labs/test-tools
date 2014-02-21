@@ -1,6 +1,6 @@
 {
   "name": "bosonic-test-tools",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "test-tools ==========",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/bosonic/test-tools/issues"
   },
-  "dependencies": {
+  "peerDependencies": {
     "grunt": "~0.4.2",
     "grunt-cli": "~0.1.13",
     "grunt-contrib-watch": "~0.5.3",
