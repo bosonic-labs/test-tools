@@ -1,7 +1,7 @@
 {
   "name": "bosonic-test-tools",
-  "version": "0.2.5",
-  "description": "test-tools ==========",
+  "version": "0.2.6",
+  "description": "Deprecated. Use web-component-tester instead.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
